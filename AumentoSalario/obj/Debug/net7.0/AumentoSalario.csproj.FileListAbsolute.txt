@@ -1,0 +1,14 @@
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\bin\Debug\net7.0\AumentoSalario.exe
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\bin\Debug\net7.0\AumentoSalario.deps.json
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\bin\Debug\net7.0\AumentoSalario.runtimeconfig.json
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\bin\Debug\net7.0\AumentoSalario.dll
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\bin\Debug\net7.0\AumentoSalario.pdb
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\obj\Debug\net7.0\AumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\obj\Debug\net7.0\AumentoSalario.AssemblyInfoInputs.cache
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\obj\Debug\net7.0\AumentoSalario.AssemblyInfo.cs
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\obj\Debug\net7.0\AumentoSalario.csproj.CoreCompileInputs.cache
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\obj\Debug\net7.0\AumentoSalario.dll
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\obj\Debug\net7.0\refint\AumentoSalario.dll
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\obj\Debug\net7.0\AumentoSalario.pdb
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\obj\Debug\net7.0\AumentoSalario.genruntimeconfig.cache
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\AumentoDeSalario\AumentoSalario\obj\Debug\net7.0\ref\AumentoSalario.dll
